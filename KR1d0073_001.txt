@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 檀弓疑問
-#+DATE: 2015-09-23 09:38:37
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:11:07.286972
+#+PROPERTY: ID KR1d0073
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 檀弓疑問
 <pb:KR1d0073_WYG_001-1a>¶
 欽定四庫全書¶
 　檀弓疑問¶
@@ -416,4 +418,3 @@
 　¶
 　¶
 　檀弓疑問¶
-
